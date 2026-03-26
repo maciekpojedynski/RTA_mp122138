@@ -1,2 +1,1 @@
-# RTA_mp122138
-Analiza Czasu Trwania 
+# Analiza danych w czasie rzeczywistym
